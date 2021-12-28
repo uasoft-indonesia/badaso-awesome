@@ -32,4 +32,4 @@ Build your theme now and get listed here !
 
 List of platform build with badaso
 
-- [persis.uatech.co.id](https://persis.or.id) - New media site for persis organization
+- [persis.or.id](https://persis.or.id) - New media site for persis organization
