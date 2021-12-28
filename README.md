@@ -30,4 +30,6 @@ Build your theme now and get listed here !
 
 ## Showcase
 
-- [persis.uatech.co.id](https://persis.uatech.co.id) - New media site for persis organization
+List of platform build with badaso
+
+- [persis.uatech.co.id](https://persis.or.id) - New media site for persis organization
