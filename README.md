@@ -11,7 +11,7 @@ A curated list of awesome things related to [Badaso](https://github.com/uasoft-i
 - [Commerce](https://github.com/uasoft-indonesia/badaso-commerce-module) - Commerce system for badaso, build your online shop faster.
 - [GraphQL](https://github.com/uasoft-indonesia/badaso-graphql-module) - Using GraphQL with badaso.
 - [POS](https://github.com/uasoft-indonesia/badaso-POS-module) - Build Point of Sales faster and boost your business.
-- [BadasoNuxt](https://github.com/uasoft-indonesia/badaso-nuxt) - Integrate your Nuxt with badaso faster.
+- [Badaso Nuxt](https://github.com/uasoft-indonesia/badaso-nuxt) - Integrate your Nuxt with badaso faster.
 
 ### Community
 
@@ -21,8 +21,10 @@ Build your module now and get listed here !
 
 ### Official
 
-- [PostTheme](https://github.com/uasoft-indonesia/badaso-post-theme) - Basic theme for badaso post module.
-- [CommerceTheme](https://github.com/uasoft-indonesia/badaso-commerce-theme) - Basic theme for badaso commerce module.
+- [Posty Theme](https://github.com/uasoft-indonesia/badaso-posty-theme) - Free theme for badaso post module.
+- [Shopu Theme](https://github.com/uasoft-indonesia/badaso-commerce-theme) - Free theme for badaso commerce module.
+- [Menit Theme](https://badaso-menit.uatech.co.id) - Premium theme for badaso post module with TailwindCSS & AlpineJS.
+- [Jaya Theme](https://badaso-jaya.uatech.co.id) - Premium theme for badaso post module with TailwindCSS & AlpineJS.
 
 ### Community
 
@@ -32,4 +34,4 @@ Build your theme now and get listed here !
 
 List of platform build with badaso
 
-- [persis.or.id](https://persis.or.id) - New media site for persis organization
+- [persis.or.id](https://persis.or.id) - New media site for organization called PERSIS
