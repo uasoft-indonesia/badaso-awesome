@@ -8,6 +8,7 @@ A curated list of awesome things related to [Badaso](https://github.com/uasoft-i
 
 - [Post](https://github.com/uasoft-indonesia/badaso-post-module) - Post system on badaso, create blog & news site faster.
 - [Sitemap](https://github.com/uasoft-indonesia/badaso-sitemap-modul) - Build sitemap faster with badaso.
+- [Content](https://github.com/uasoft-indonesia/badaso-content-module) - Content management system on badaso, control your content from dashboard.
 - [Commerce](https://github.com/uasoft-indonesia/badaso-commerce-module) - Commerce system for badaso, build your online shop faster.
 - [GraphQL](https://github.com/uasoft-indonesia/badaso-graphql-module) - Using GraphQL with badaso.
 - [POS](https://github.com/uasoft-indonesia/badaso-POS-module) - Build Point of Sales faster and boost your business.
