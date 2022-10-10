@@ -21,10 +21,17 @@ Build your module now and get listed here !
 
 ### Official
 
-- [Posty Theme](https://github.com/uasoft-indonesia/badaso-posty-theme) - Free theme for badaso post module.
-- [Shopu Theme](https://github.com/uasoft-indonesia/badaso-commerce-theme) - Free theme for badaso commerce module.
-- [Menit Theme](https://badaso-menit.uatech.co.id) - Premium theme for badaso post module with TailwindCSS & AlpineJS.
-- [Jaya Theme](https://badaso-jaya.uatech.co.id) - Premium theme for badaso post module with TailwindCSS & AlpineJS.
+#### Free
+
+- [Posty Theme](https://github.com/uasoft-indonesia/badaso-posty-theme) - Free theme for blog or news website.
+- [Shopu Theme](https://github.com/uasoft-indonesia/badaso-commerce-theme) - Free theme for e-commerce web app.
+- [Landy Theme](https://badaso-landy.uatech.co.id) - Free theme for company profile website.
+
+#### Premium / paid
+
+- [Menit Theme](https://badaso-menit.uatech.co.id) - Premium theme for blog or news website.
+- [Jaya Theme](https://badaso-jaya.uatech.co.id) - Premium theme for blog or news website.
+- [Landpro Theme](https://badaso-landpro.uatech.co.id) - Premium theme for company profile website.
 
 ### Community
 
